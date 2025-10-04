@@ -55,7 +55,7 @@ def extract_skills(project_text):
 
 # ---------- Streamlit UI ----------
 st.set_page_config(layout="wide", page_title="Employee Skill Matcher")
-st.title("🧑‍💻 Employee Skill Matcher - LLM + SQL")
+st.title("🧑‍💻 AI Powered Resource Allocation Tool")
 
 with st.sidebar:
     st.header("Project Input")
@@ -168,3 +168,4 @@ if df is not None and results is not None:
 
     # ---------- Download CSV ----------
     st.download_button("📥 Download Results CSV", df.to_csv(index=False), file_name="skill_matches.csv")
+
