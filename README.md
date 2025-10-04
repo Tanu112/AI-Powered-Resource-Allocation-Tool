@@ -25,7 +25,12 @@ An interactive tool to evaluate employee skills, identify skill gaps, and recomm
 - **Database**: MySQL  
 - **Data Processing**: Pandas  
 - **Environment Management**: dotenv
+---
 
+## App
+
+<img width="1341" height="615" alt="image" src="https://github.com/user-attachments/assets/def9ce47-f2d6-4adf-8f06-7795b2ccc098" />
+<img width="1309" height="614" alt="image" src="https://github.com/user-attachments/assets/30537550-f5e1-4c4d-8a6e-71d45ea53025" />
 ---
 
 ## Installation
@@ -35,9 +40,4 @@ An interactive tool to evaluate employee skills, identify skill gaps, and recomm
 ```bash
 git clone <repository-url>
 cd AI-Powered-Resource-Allocation-Tool
----
 
-## App
-
-<img width="1341" height="615" alt="image" src="https://github.com/user-attachments/assets/def9ce47-f2d6-4adf-8f06-7795b2ccc098" />
-<img width="1309" height="614" alt="image" src="https://github.com/user-attachments/assets/30537550-f5e1-4c4d-8a6e-71d45ea53025" />
