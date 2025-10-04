@@ -1,0 +1,9 @@
+streamlit
+mysql-connector-python
+python-dotenv
+openai
+sentence-transformers
+scikit-learn
+plotly
+pandas
+numpy
