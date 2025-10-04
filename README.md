@@ -33,6 +33,12 @@ An interactive tool to evaluate employee skills, identify skill gaps, and recomm
 <img width="1309" height="614" alt="image" src="https://github.com/user-attachments/assets/30537550-f5e1-4c4d-8a6e-71d45ea53025" />
 
 ---
+
+## Link
+
+https://ai-powered-resource-allocation-tool.streamlit.app/
+
+---
 ## Installation
 
 1. Clone the repository:
